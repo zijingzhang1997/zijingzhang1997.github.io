@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download my CV [here](http://zijingzhang1997.github.io/files/CV.pdf).
+Download my CV [here](http://zijingzhang1997.github.io/files/cv2.pdf).
