@@ -1,5 +1,5 @@
 ---
-title: "2. Objective scoring of dyspnea with unrestrictive wearable RF sensors    "
+title: "Objective scoring of dyspnea with unrestrictive wearable RF sensors    "
 excerpt: "Cornell University, Fall 2020-present <br/><img src='/images/research2.png'>"
 collection: portfolio
 ---
