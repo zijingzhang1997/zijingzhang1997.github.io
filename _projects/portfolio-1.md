@@ -1,7 +1,7 @@
 ---
 title: "Respiratory pattern monitoring with RF near-field coherent sensing (NCS)"
 excerpt: "Cornell University, Spring 2020-present <br/><img src='/images/research1.png'><br/><img src='/images/research1b.png'>"
-collection: portfolio
+collection: projects
 ---
 
 <img src='/images/research1b.png'>  
