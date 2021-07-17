@@ -17,18 +17,18 @@ Non-invasive sensing of physiological signals including respiratory rate, respir
 
 Research areas
 ======
-• Wireless Sensing
-• Digital Healthcare Devices and Telemedicine
-• Signal Processing and Algorithm Development
+• Wireless Sensing  
+• Digital Healthcare Devices and Telemedicine  
+• Signal Processing and Algorithm Development  
 
 
 Research interest
 ======
-• Vital Signs Monitoring (Respiration, heartbeat rate) through RF signals
-• Digital wearable sensors for medical diagnosis 
-• RFID imaging systems
-• Machine learning and neural network algorithm development
+• Vital Signs Monitoring (Respiration, heartbeat rate) through RF signals  
+• Digital wearable sensors for medical diagnosis   
+• RFID imaging systems  
+• Machine learning and neural network algorithm development  
 
-
+<img src='/images/image2.jpg'>  
 
 

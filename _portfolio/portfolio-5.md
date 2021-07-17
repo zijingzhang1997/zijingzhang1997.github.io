@@ -5,5 +5,6 @@ collection: portfolio
 ---
 
 
-•	Employed ambient low-cost passive RFID tags for the shape and size of human body and feet in a closet-like space.
+<img src='/images/research5.png'> 
+•	Employed ambient low-cost passive RFID tags for the shape and size of human body and feet in a closet-like space.  
 •	Developed a CNN model that can accurately reconstruct the 3D image of an object by the simulation of CST Microwave Studio. 
