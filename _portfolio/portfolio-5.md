@@ -1,7 +1,7 @@
 ---
 title: "3D Imaging by ambient radio signals using the CNN model"
 excerpt: "Cornell University, Fall 2019-present <br/><img src='/images/research4.png'>"
-collection: projects
+collection: portfolio
 ---
 
 

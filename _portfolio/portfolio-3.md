@@ -1,7 +1,7 @@
 ---
 title: "Sleep Apnea Detection and Prediction based on Bed-integrated RF sensor"
 excerpt: "Cornell University &Cornell Weill medical sleep center, Summer 2020-present <br/><img src='/images/research3c.png'>"
-collection: projects
+collection: portfolio
 ---
 
 

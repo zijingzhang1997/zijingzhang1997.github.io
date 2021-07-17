@@ -1,7 +1,7 @@
 ---
 title: "Understand mental health using vital signs"
 excerpt: "Cornell University, Spring 2020-present "
-collection: projects
+collection: portfolio
 ---
 
 
