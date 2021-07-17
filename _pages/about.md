@@ -15,17 +15,19 @@ My present research interests focus on vital signs monitoring, digital health se
 Non-invasive sensing of physiological signals including respiratory rate, respiratory volume, and heart rate with high user comfort is of great significance for health diagnostic systems. My research seeks non-contact and continuous measuring system utilizing RF sensors that can be invisible to the user and greatly enhance comfort and convenience to facilitate many healthcare applications. I have a strong faith that my research can ultimately transform how healthcare is experienced and delivered and provide highly personalized and precisely targeted diagnostics and therapeutics to people.  
 
 
-Research areas:
-Wireless Sensing
-Digital Healthcare Devices and Telemedicine
-Signal Processing and Algorithm Development
+Research areas
+======
+• Wireless Sensing
+• Digital Healthcare Devices and Telemedicine
+• Signal Processing and Algorithm Development
 
 
-Research interest:
-Vital Signs Monitoring (Respiration, heartbeat rate) through RF signals
-Digital wearable sensors for medical diagnosis 
-RFID imaging systems
-Machine learning and neural network algorithm development
+Research interest
+======
+• Vital Signs Monitoring (Respiration, heartbeat rate) through RF signals
+• Digital wearable sensors for medical diagnosis 
+• RFID imaging systems
+• Machine learning and neural network algorithm development
 
 
 

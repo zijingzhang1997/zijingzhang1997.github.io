@@ -1,11 +1,12 @@
 ---
-title: "Respiratory pattern monitoring with RF near-field coherent sensing (NCS)"
-excerpt: "Cornell University, Spring 2020-present <br/><img src='/images/research1.png'><br/><img src='/images/research1b.png'>"
+title: "Understand mental health using vital signs"
+excerpt: "Cornell University, Spring 2020-present "
 collection: portfolio
 ---
 
 
-•	Developed a non-invasive respiration sensor integrated into furniture that can be invisible to the user and enhance comfort and convenience. The sensor was modified from an RF coaxial cable with a designed notch.  
-•	Captured the cardiopulmonary waveforms and derived the breath rate and heart rate with variations in positions.  
-•	Implemented the sensor to detect simulated respiratory disorders including central and obstructive sleep apnea.  
-•	Performed a human study (N=10) that confirmed the validity of the sensing system and signal processing.   
+My sensing system can measure physiological signals which can also provide a unique insight into phycological condition. Attention is one of the crucial areas of investigation in phycology. Investigating attention can exert influences in fields ranging from mental health and the study of disorders of consciousness to artificial intelligence and related areas. Our previous research has demonstrated the possibility to assess attention/stress utilizing physiological signals including respiratory and heart rate obtained from our sensors. 
+
+In my future work, I will conduct large-scale human study to  evaluate stress/attention using respiratory and heartbeat characteristics from the NCS sensor. Various attentive task will be included in the human-study protocol. Correlation of reaction times to vital signs will also be  investigated.
+This study can be important since emotions are fundamental to human interaction and they influence many aspects of our lives. Our research can help reveal the intrinsic relation between physiological behavior and mental condition and further develop mental intelligence platform.
+  

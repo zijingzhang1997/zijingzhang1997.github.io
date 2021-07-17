@@ -4,6 +4,7 @@ excerpt: "Cornell University, Fall 2020-present <br/><img src='/images/research2
 collection: portfolio
 ---
 
+<img src='/images/research1b.png'>  
 
 •	Designed and implemented a testing protocol to perform human study (N=32) on simulated dyspnea (shortness of breath) by the exertion and Borg scales.
 •	Implemented algorithms to identify various features embedded in breathing waveforms to predict the dyspnea score in comparison with the self-report scores.
