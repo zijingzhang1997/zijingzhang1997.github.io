@@ -4,7 +4,7 @@ excerpt: "Cornell University, Spring 2020-present <br/><img src='/images/researc
 collection: portfolio
 ---
 
-
+<img src='/images/research1b.png'>
 •	Developed a non-invasive respiration sensor integrated into furniture that can be invisible to the user and enhance comfort and convenience. The sensor was modified from an RF coaxial cable with a designed notch.  
 •	Captured the cardiopulmonary waveforms and derived the breath rate and heart rate with variations in positions.  
 •	Implemented the sensor to detect simulated respiratory disorders including central and obstructive sleep apnea.  
