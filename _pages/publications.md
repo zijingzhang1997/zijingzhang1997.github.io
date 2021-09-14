@@ -8,7 +8,7 @@ author_profile: true
 [1] **Zijing Zhang**, Pragya Sharma, Jianlin Zhou, Xiaonan Hui and Edwin C. Kan, "Furniture-integrated respiration sensors by notched transmission lines," IEEE Sensors Journal, doi: 10.1109/JSEN.2020.3028970, 2020. [link](https://ieeexplore.ieee.org/document/9214478) [pdf](http://zijingzhang1997.github.io/files/paper1.pdf)    
       
 
-[2] **Zijing Zhang**, Pragya Sharma, Thomas Bradley Conroy, Veerawat Phongtankuel and Edwin C. Kan, "Objective scoring of Physiologically Induced dyspnea with non-invasive RF respiratory sensors", IEEE Transactions on Biomedical Engineering, doi: 10.1109/TBME.2021.3096462. [link](https://ieeexplore.ieee.org/document/9483654)[pdf](http://zijingzhang1997.github.io/files/paper2.pdf)
+[2] **Zijing Zhang**, Pragya Sharma, Thomas Bradley Conroy, Veerawat Phongtankuel and Edwin C. Kan, "Objective scoring of Physiologically Induced dyspnea with non-invasive RF respiratory sensors", IEEE Transactions on Biomedical Engineering, doi: 10.1109/TBME.2021.3096462. [link](https://ieeexplore.ieee.org/document/9483654) [pdf](http://zijingzhang1997.github.io/files/paper2.pdf)
      
 [3] Xiaonan Hui, Jianlin Zhou, Pragya Sharma, Thomas Conroy, **Zijing Zhang** and Edwin C. Kan “Wearable RF Near-Field Cough Monitoring by Frequency-Time Deep Learning”, accepted by IEEE Transactions on Biomedical Circuits and Systems  
 
