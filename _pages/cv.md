@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Download my CV [here](http://zijingzhang1997.github.io/files/cv2.pdf).
+
+<img src='/images/image2.jpg'>  
