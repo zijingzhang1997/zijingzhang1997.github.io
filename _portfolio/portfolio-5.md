@@ -1,10 +1,11 @@
 ---
-title: "3D Imaging by ambient radio signals using the CNN model"
-excerpt: "Cornell University, Fall 2019-present <br/><img src='/images/research4.png'>"
+title: "Objective scoring of dyspnea with unrestrictive wearable RF sensors    "
+excerpt: "Cornell University, Fall 2020-present <br/><img src='/images/research2.png'>"
 collection: portfolio
 ---
 
+<img src='/images/research1b.png'>  
 
-<img src='/images/research5.png'> 
-•	Employed ambient low-cost passive RFID tags for the shape and size of human body and feet in a closet-like space.  
-•	Developed a CNN model that can accurately reconstruct the 3D image of an object by the simulation of CST Microwave Studio. 
+•	Designed and implemented a testing protocol to perform human study (N=32) on simulated dyspnea (shortness of breath) by the exertion and Borg scales.
+•	Implemented algorithms to identify various features embedded in breathing waveforms to predict the dyspnea score in comparison with the self-report scores.
+•	Designed an automatic system using machine learning algorithms of decision tree and random forest to evaluate the objective dyspnea score.
