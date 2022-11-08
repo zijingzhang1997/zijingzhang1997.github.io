@@ -1,6 +1,6 @@
 ---
-title: "Non-invasive eye movement monitoring with eyes shut    "
-excerpt: "Eye muscle tracking, sleep REM monitoring [SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/eye_intro.pdf) <br/><img src='/images/ROG/ROG.gif'>"
+title: "Sleep apnea detection and prediction based on bed-integrated RF sensor "
+excerpt: "sleep disorders, OSA, CSA [SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/sleep/sleep_study_intro.pdf) <br/><img src='/images/ROG/ROG.gif'>"
 collection: portfolio
 ---
 
