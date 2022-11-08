@@ -1,6 +1,6 @@
 ---
 title: "Hand gesture recognition system by non-invasive muscle monitoring sensor "
-excerpt: "Human Computer Interaction, Novel muscle tracking system [SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf) <br/><img src='/images/RMG/RMG_HGR.gif'>"
+excerpt: "Human Computer Interaction, Novel muscle tracking system [SLIDES](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf) <br/><img src='/images/RMG/RMG_HGR.gif'>"
 collection: portfolio
 ---
 

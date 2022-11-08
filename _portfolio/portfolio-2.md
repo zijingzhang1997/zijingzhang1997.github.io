@@ -1,6 +1,6 @@
 ---
 title: "Non-invasive eye movement monitoring with eyes shut    "
-excerpt: "Eye muscle tracking, sleep REM monitoring [SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/eye_intro.pdf) <br/><img src='/images/ROG/ROG.gif'>"
+excerpt: "Eye muscle tracking, sleep REM monitoring [SLIDES](http://zijingzhang1997.github.io/files/eye_intro.pdf) <br/><img src='/images/ROG/ROG.gif'>"
 collection: portfolio
 ---
 

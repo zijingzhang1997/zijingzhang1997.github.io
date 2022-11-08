@@ -1,6 +1,6 @@
 ---
 title: "Sleep apnea detection and prediction based on bed-integrated RF sensor "
-excerpt: "sleep disorders, OSA, CSA [SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/sleep/sleep_study_intro.pdf) <br/><img src='/images/ROG/ROG.gif'>"
+excerpt: "sleep disorders, OSA, CSA [SLIDES](http://zijingzhang1997.github.io/files/sleep/sleep_study_intro.pdf) <br/><img src='/images/ROG/ROG.gif'>"
 collection: portfolio
 ---
 
