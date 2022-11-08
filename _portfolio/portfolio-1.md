@@ -24,7 +24,7 @@ Benchmark: RMG and sEMG waveforms for various gestures by DTW averaging on all s
 
 <img src='/images/RMG/extension.png'> 
 To validate the general applicability of RMG to different skeletal muscles, we further extended the setup to wearable radiooculogram (ROG) on eyes and RMG on legs. 
-
+<img src='/images/nonContact.gif'> 
 **Applications**:
 RMG has the unique advantage to monitor internal muscles non-invasively. In the future, RMG and EMG can be fused together to derive the full information of stimulation and actuation. RMG can lead to new methods for assessment of muscle functions, monitoring of muscle fatigue, and diagnosis of neuromuscular disorders. RMG is also promising for future HCI applications including exoskeleton robotic control, virtual reality interface, and in-air gesture capture. 
 
