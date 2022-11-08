@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] **Z. Zhang**, and E. C. Kan, " Novel muscle monitoring by radiomyography (RMG) and its application to hand gesture recognition ", submitted to IEEE Trans. Hum. Mach. Syst. [video](https://www.youtube.com/watch?v=UWt5bc9nwfg)  [pdf](http://zijingzhang1997.github.io/files/RMG_HGR.pdf) [arXiv:2211.03767](https://arxiv.org/abs/2211.03767)  
+[1] **Z. Zhang**, and E. C. Kan, " Novel muscle monitoring by radiomyography (RMG) and its application to hand gesture recognition ", submitted to IEEE Trans. Hum. Mach. Syst. [video](https://www.youtube.com/watch?v=UWt5bc9nwfg)  [pdf](http://zijingzhang1997.github.io/files/RMG_HGR.pdf)
       
 
 [2] **Z. Zhang**, J. Zhou, T. B. Conroy, S. Chung, J. Choi, P. Chau, D. B. Green,A. C. Krieger and E. C. Kan, " Objective dyspnea evaluation on COVID-19 patients learning from exertion-induced dyspnea scores," submitted to IEEE. Trans. Biomed. Engr.[pdf](http://zijingzhang1997.github.io/files/COVID_dyspnea.pdf)  
