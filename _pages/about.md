@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Zijing Zhang's Research:  
-    RF Sensors for Medical and Cyber-physical Intelligence"
+title: "Zijing Zhang's Research:  <br/> RF Sensors for Medical and Cyber-physical Intelligence"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
