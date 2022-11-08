@@ -1,12 +1,12 @@
 ---
 title: "Hand gesture recognition system by non-invasive muscle monitoring sensor "
-excerpt: "Human Computer Interaction, Novel muscle tracking system [slides](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf) <br/><img src='/images/RMG/RMG_HGR.gif'>"
+excerpt: "Human Computer Interaction, Novel muscle tracking system [SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf) <br/><img src='/images/RMG/RMG_HGR.gif'>"
 collection: portfolio
 ---
 
 <img src='/images/RMG/RMG_HGR.gif'><br/>
 <img src='/images/RMG/setup.png'>  <br/>
-[slides](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf)
+[SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf)
 
 Conventional electromyography (EMG) measures the continuous neural activity during muscle contraction, but lacks explicit quantification of the actual contraction. Here we propose a novel radiomyography (RMG) for continuous muscle actuation sensing that can be wearable and touchless, capturing both superficial and deep muscle groups. 
 <img src='/images/RMG/ges23.png'> 

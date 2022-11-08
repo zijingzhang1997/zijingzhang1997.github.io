@@ -1,12 +1,12 @@
 ---
-title: "Respiratory pattern monitoring with RF near-field coherent sensing (NCS)"
-excerpt: "Cornell University, Spring 2020-present <br/><img src='/images/research1.png'><br/><img src='/images/research1b.png'>"
+title: "Air-Writing recognition by forearm wearable RMG "
+excerpt: "Muscle monitoring, HCI applications <br/><img src='/images/AirWriteGIF.gif'>"
 collection: portfolio
 ---
 
-<img src='/images/research1b.png'>  
-•	Developed a non-invasive respiration sensor integrated into furniture that can be invisible to the user and enhance comfort and convenience. The sensor was modified from an RF coaxial cable with a designed notch.  
-•	Captured the cardiopulmonary waveforms and derived the breath rate and heart rate with variations in positions.  
-•	Implemented the sensor to detect simulated respiratory disorders including central and obstructive sleep apnea.  
-•	Performed a human study (N=10) that confirmed the validity of the sensing system and signal processing.   
+<img src='/images/AirWriteGIF.gif'> <br/>
+
+•	Enables the user to hand-write in the air in an intuitive and natural way with non-invasive sensor on the forearm.
+•	Demonstrated detection of all alphabets from A-Z with accuracy over 90%.
+
   

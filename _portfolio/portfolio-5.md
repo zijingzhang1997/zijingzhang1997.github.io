@@ -1,6 +1,6 @@
 ---
-title: "Objective scoring of dyspnea with unrestrictive wearable RF sensors    "
-excerpt: "Cornell University, Fall 2020-present <br/><img src='/images/research2.png'>"
+title: "Dyspnea evaluation on COVID-19 patients "
+excerpt: "Pulmonary diseases, Non-invasive respiratory sensor [SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf)"
 collection: portfolio
 ---
 
