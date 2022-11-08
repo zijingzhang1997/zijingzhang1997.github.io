@@ -17,7 +17,7 @@ author_profile: true
 
 [5]**Z. Zhang**, G. Xu, and E. C. Kan, "Outlooks for RFID-based autonomous retails and factories", IEEE J. Radio Frequency Identification (RFID), 2022, doi: 10.1109/JRFID.2022.3211474 [link](https://ieeexplore.ieee.org/abstract/document/9908155)  [pdf](http://zijingzhang1997.github.io/files/JRFID.pdf)
 
-[6]**Z. Zhang**, G. Xu, and E. C. Kan, "3D geometry recognition by RFID Box based on deep learning", in 16th Intl. Conf. on RFID, Las Vegas, NV, May 16 – 19, 2022. [video](https://www.youtube.com/watch?v=ZCJ9l3e_it4)[pdf](http://zijingzhang1997.github.io/files/RFID_Poster.pdf)
+[6]**Z. Zhang**, G. Xu, and E. C. Kan, "3D geometry recognition by RFID Box based on deep learning", in 16th Intl. Conf. on RFID, Las Vegas, NV, May 16 – 19, 2022. [video](https://www.youtube.com/watch?v=ZCJ9l3e_it4)  [pdf](http://zijingzhang1997.github.io/files/RFID_Poster.pdf)
 
 
 [7]**Z. Zhang**, P. Sharma, T. B. Conroy, V. Phongtankuel, and E. C. Kan, "Objective scoring of physiologically induced dyspnea by non-invasive RF sensors," IEEE. Trans. Biomed. Engr., vol. 69, no. 1, pp. 432-442, 2021 [link](https://ieeexplore.ieee.org/document/9483654) [pdf](http://zijingzhang1997.github.io/files/paper2.pdf)
