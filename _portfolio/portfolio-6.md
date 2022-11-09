@@ -19,6 +19,8 @@ Waveform examples from NCS and PSG in the epochs labelled as (a) normal; (b) OSA
 
 
 **Results**: Apneic event detection achieved a sensitivity and specificity up to 88.6% and 89.0% for k-fold validation, and 83.1% and 91.6% for subject-independent validation.  Prediction of forthcoming apneic events could be made up to 90 s in advance. Apneic event prediction achieved a sensitivity and specificity up to 81.3% and 82.1% for k-fold validation, and 80.5% and 82.4% for subject-independent validation. The most important features for event detection and prediction can be assessed in the learning model.  A bed-integrated RF sensor can covertly and reliably detect and predict apneic events. 
+
+
 <img src='/images/sleep/pic5.png'>  <br/>
 <img src='/images/sleep/pic6.png'>  <br/>
 Detect and predict sleep disorders using ML model.

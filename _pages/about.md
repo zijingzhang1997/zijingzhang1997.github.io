@@ -11,7 +11,9 @@ redirect_from:
 
 I’m a **fourth** year PhD student at School of Electrical and Computer Engineering, Cornell University, advised by [Prof. Edwin C. Kan](https://kan.ece.cornell.edu/) (expected graduation: **May 2023**). 
 
-I am looking for a technical position in the field of Digital Healthcare or Human-Computer Interface. [LinkedIn](http://www.linkedin.com/in/zijing-zhang-9040731b8)Download my **CV** [here](http://zijingzhang1997.github.io/files/cv2.pdf).
+I am looking for a technical position in the field of Digital Healthcare or Human-Computer Interface. [LinkedIn](http://www.linkedin.com/in/zijing-zhang-9040731b8)
+
+Download my **CV** [here](http://zijingzhang1997.github.io/files/cv2.pdf).
 
 My present research interests focus on non-invasive sensing of physiological signals including respiration and muscle motion for biomedical applications and human computer interaction (HCI). digital health sensing and telemedicine.
 
