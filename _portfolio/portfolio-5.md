@@ -1,28 +1,30 @@
 ---
-title: "Dyspnea evaluation on COVID-19 patients "
-excerpt: "Pulmonary diseases, Non-invasive respiratory sensor [Slides](http://zijingzhang1997.github.io/files/COVID/COVID_intro.pdf) <br/><img src='/images/COVID/pic1.png'>  "
+title: "Hand gesture recognition system by non-invasive muscle monitoring sensor "
+excerpt: "Human Computer Interaction, Novel muscle tracking system [SLIDES](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf) <br/><img src='/images/RMG/RMG_HGR.gif'>"
 collection: portfolio
 ---
 
-[Slides](http://zijingzhang1997.github.io/files/COVID/COVID_intro.pdf)
+<img src='/images/RMG/RMG_HGR.gif'><br/>
+<img src='/images/RMG/setup.png'>  <br/>
+[SLIDES FOR MORE DETAILS](http://zijingzhang1997.github.io/files/RMG/RMG_HGR_intro.pdf)
 
-<img src='/images/COVID/pic1.png'><br/>  
+Conventional electromyography (EMG) measures the continuous neural activity during muscle contraction, but lacks explicit quantification of the actual contraction. Here we propose a novel radiomyography (RMG) for continuous muscle actuation sensing that can be wearable and touchless, capturing both superficial and deep muscle groups. 
+<img src='/images/RMG/ges23.png'> 
+We verified RMG experimentally by a forearm wearable sensor for 23 hand gesture recognition. 
 
-**Objective**: Dyspnea is one of the most common symptoms for many pulmonary diseases including COVID-19. Clinical assessment of dyspnea is mainly performed by subjective self-report, which has limited accuracy and is challenging for continuous monitoring. The objective of this research study is to determine if dyspnea progression in COVID patients can be assessed using a non-invasive wearable sensor and if the findings are comparable to a learning model of physiologically induced dyspnea on healthy subjects. 
+<img src='/images/RMG/sigProc.png'><br/>  
+We first converted the radio sensing outputs to the time-frequency spectrogram, and then employed the vision transformer (ViT) deep learning network as the classification model, which can recognize 23 gestures with an average accuracy up to 99% on 8 subjects. By transfer learning, high adaptivity to user difference and sensor variation were achieved at an average accuracy up to 97%. 
 
-**Methods**: Non-invasive wearable respiratory sensors were employed to retrieve continuous respiratory characteristics with user comfort and convenience. Overnight (~16h) respiratory waveforms were collected on 12 COVID-19 patients, and a benchmark on 13 healthy subjects with exertion-induced dyspnea were also performed for blind comparison. The learning model was built from the respiratory features with self report on 32 healthy subjects under exertion and airway blockage.
+<img src='/images/RMG/timeLag.png'><br/> 
+Waveforms recorded from RMG, sEMG for fast finger motion of 150 beats/minute.
+RMG has ultra-low latency with the sampling rate readily over 100,000 samples per second (Sps), which is important for dynamic HGR. 
 
-<img src='/images/COVID/pic2.png'><br/>  
-Waveform examples
+<img src='/images/RMG/RMG_EMG.png'>
+Benchmark: RMG and sEMG waveforms for various gestures by DTW averaging on all samples with the same gesture.   
 
-<img src='/images/COVID/pic3.png'><br/>  
+<img src='/images/RMG/extension.png'> 
+To validate the general applicability of RMG to different skeletal muscles, we further extended the setup to wearable radiooculogram (ROG) on eyes and RMG on legs. 
+<img src='/images/nonContact.gif'> <br/> 
+**Applications**:
+RMG has the unique advantage to monitor internal muscles non-invasively. In the future, RMG and EMG can be fused together to derive the full information of stimulation and actuation. RMG can lead to new methods for assessment of muscle functions, monitoring of muscle fatigue, and diagnosis of neuromuscular disorders. RMG is also promising for future HCI applications including exoskeleton robotic control, virtual reality interface, and in-air gesture capture. 
 
-**Results**: High similarity between dyspnea on COVID patients and physiologically induced dyspnea on healthy subjects was established. COVID patients have consistently high objective dyspnea scores in comparison with normal breathing of healthy subjects. We also exhibited continuous dyspnea scoring capability for 12-16 hours on patients. 
-
-<img src='/images/COVID/pic4.png'><br/>  
-
-<img src='/images/COVID/pic5.png'><br/>  
-Continuous monitoring examples 
-
-
-**Significance**: This paper validates the viability to use our objective dyspnea scoring for clinical dyspnea assessment on COVID patients. The proposed system can help the identification of dyspneic exacerbation in conditions such as COVID, leading to early intervention and possibly improving their outcome. This approach can be potentially applied to other pulmonary disorders such as asthma, emphysema, and pneumonia.  

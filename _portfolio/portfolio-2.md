@@ -1,31 +1,29 @@
 ---
-title: "Non-invasive eye movement monitoring with eyes shut    "
-excerpt: "Eye muscle tracking, sleep REM monitoring [Slides](http://zijingzhang1997.github.io/files/eye_intro.pdf) <br/><img src='/images/ROG/ROG.gif'>"
+title: "Objective scoring of dyspnea with wearable RF sensor  "
+excerpt: "Dyspnea; respiration sensors; medical diagnosis.[Slides](http://zijingzhang1997.github.io/files/dyspnea/dyspnea_intro.pdf) <br/><img src='/images/dyspnea/GIF.gif'><br/><img src='/images/dyspnea/pic0.png'>"
 collection: portfolio
 ---
-[Slides](http://zijingzhang1997.github.io/files/eye_intro.pdf)
+[Slides](http://zijingzhang1997.github.io/files/dyspnea/dyspnea_intro.pdf
 
-<img src='/images/ROG/ROG.gif'>  <br/>
+<img src='/images/dyspnea/pic2.png'>  <br/>
+<img src='/images/dyspnea/pic4.png'>  <br/>
 
-This work presents radiooculogram (ROG), a novel sensor for non-invasive eye movement (EM) monitoring with eyes closed. We have experimentally demonstrated accurate measurements of EM frequency and directions for 5 participants and benchmarked ROG with electrooculogram (EOG). Compared with biopotential-based sensors, ROG has higher user comfort due to touchless operation and can capture direct muscle activity even in deep tissues. This work on voluntary EM sensing can serve as the baseline implementation for eventual sleep rapid EM monitoring.  
+**Objective**: Dyspnea, also known as the patient’s feeling of difficult or labored breathing, is one of the most common symptoms for respiratory disorders. Dyspnea is usually self-reported by patients using, for example, the Borg scale from 0 – 10, which is however subjective and problematic for those who refuse to cooperate or cannot communicate. The objective of this work was to develop a learning-based model that can evaluate the correlation between the self-report Borg score and the respiratory metrics for dyspnea induced by exertion and increased airway resistance. 
 
-<img src='/images/ROG/pic1.png'>  <br/>
-Experimental setup of ROG
 
-<img src='/images/ROG/waveform.png'>  <br/>
+**Methods**: A non-invasive wearable radio-frequency sensor by near-field coherent sensing was employed to retrieve continuous respiratory data with user comfort and convenience. Self-report dyspnea scores and respiratory features were collected on 32 healthy participants going through various physical and breathing exercises. A machine learning model based on the decision tree and random forest then produced an objective dyspnea score.
 
-<img src='/images/ROG/pic2.png'>  <br/>
-EM frequency estimation
+<img src='/images/dyspnea/pic1.png'>  <br/>
+The experimental system.
 
-<img src='/images/ROG/pic4.png'>  <br/>
-<img src='/images/ROG/pic3.png'>  <br/>
-EM direction estimation
+<img src='/images/dyspnea/pic3.png'>  <br/>
+Respiratory feature extraction from 1D time waveform.
 
-**Advantages**: 
-•	Improved user comfort. EOG and EEG measurements demand numerous electrodes around the eye region with stable electrical contact, which are inconvenient, uncomfortable, and prone to face motion interference. ROG can operate without direct skin contact. For example, ROG can be integrated into the eyeglasses frame or implemented as an insert or at an outer layer of a sleep mask or a masquerade. As no skin contact electrode is involved and ROG sensors just need to be at a constant place relative to eyes, both comfort and design freedom are enhanced.
 
-•	Unmediated sensing of directional EM. While the biopotential-based sensors such as EOG, EEG, and electromyography (EMG) measure neural stimulus for muscle activity, ROG directly measures the muscle motion by coupling RF energy to deep internal muscles, i.e., muscle condition is the direct output, instead of an estimate derived from the measured stimulus. EOG and ROG can also be used together to retrieve the closed loop of stimulation and actuation. 
+**Results**: For unseen data as well as unseen participants, the objective dyspnea score can be in reasonable agreement with the self-report score, and the importance factor of each respiratory metrics can be assessed.  An objective dyspnea score can potentially complement or substitute the self-report for physiologically induced dyspnea. 
 
-•	Baseline for sleep REM detection. While camera-based methods are difficult to use for sleep REM, ROG has the flexibility to operate when eyes are open or closed without privacy concern. This work on conscious participants performing voluntary EM can formulate a validation baseline for future sleep REM monitoring.    
+<img src='/images/dyspnea/pic5.png'>  <br/>
+B&A plots between Dself  and Dobj
 
-  
+
+**Significance:** The method can potentially formulate a baseline for clinical dyspnea assessment and help caregivers track dyspnea continuously, especially for patients who cannot report themselves.

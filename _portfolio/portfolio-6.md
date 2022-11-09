@@ -1,29 +1,32 @@
 ---
-title: "Sleep apnea detection and prediction based on bed-integrated RF sensor "
-excerpt: "sleep disorders, OSA, CSA [Slides](http://zijingzhang1997.github.io/files/sleep/sleep_study_intro.pdf) <br/><img src='/images/sleep/pic1.png'>"
+title: "Non-invasive eye movement monitoring with eyes shut    "
+excerpt: "Eye muscle tracking, sleep REM monitoring [Slides](http://zijingzhang1997.github.io/files/eye_intro.pdf) <br/><img src='/images/ROG/ROG.gif'>"
 collection: portfolio
 ---
-[Slides](http://zijingzhang1997.github.io/files/sleep/sleep_study_intro.pdf)
-<img src='/images/sleep/pic2.png'>  <br/>
+[Slides](http://zijingzhang1997.github.io/files/eye_intro.pdf)
 
-**Objective**: Respiratory disturbances during sleep are a prevalent health condition that affects a large adult population. The gold standard to evaluate sleep disorders including apnea is overnight polysomnography, which requires a trained technician for live monitoring and post-processing scoring. Currently, the disorder events can hardly be predicted using the respiratory waveforms preceding the events.  The objective of this work is to develop an autonomous system to detect and predict respiratory events reliably based on real-time covert sensing. 
+<img src='/images/ROG/ROG.gif'>  <br/>
 
+This work presents radiooculogram (ROG), a novel sensor for non-invasive eye movement (EM) monitoring with eyes closed. We have experimentally demonstrated accurate measurements of EM frequency and directions for 5 participants and benchmarked ROG with electrooculogram (EOG). Compared with biopotential-based sensors, ROG has higher user comfort due to touchless operation and can capture direct muscle activity even in deep tissues. This work on voluntary EM sensing can serve as the baseline implementation for eventual sleep rapid EM monitoring.  
 
-**Methods**: A bed-integrated radio-frequency (RF) sensor by near-field coherent sensing (NCS) was employed to retrieve continuous respiratory waveforms without user’s awareness. Overnight recordings were collected from 27 patients in the Weill Cornell Center for Sleep Medicine. We extracted respiratory features to feed into the random-forest machine learning model for disorder detection and prediction. The technician annotation, derived from observation by polysomnography, was used as the ground truth during the supervised learning. 
+<img src='/images/ROG/pic1.png'>  <br/>
+Experimental setup of ROG
 
-<img src='/images/sleep/pic3.png'>  <br/>
+<img src='/images/ROG/waveform.png'>  <br/>
 
+<img src='/images/ROG/pic2.png'>  <br/>
+EM frequency estimation
 
-<img src='/images/sleep/pic4.png'>  <br/>
-Waveform examples from NCS and PSG in the epochs labelled as (a) normal; (b) OSA; (c) hypopnea. 
+<img src='/images/ROG/pic4.png'>  <br/>
+<img src='/images/ROG/pic3.png'>  <br/>
+EM direction estimation
 
+**Advantages**: 
 
-**Results**: Apneic event detection achieved a sensitivity and specificity up to 88.6% and 89.0% for k-fold validation, and 83.1% and 91.6% for subject-independent validation.  Prediction of forthcoming apneic events could be made up to 90 s in advance. Apneic event prediction achieved a sensitivity and specificity up to 81.3% and 82.1% for k-fold validation, and 80.5% and 82.4% for subject-independent validation. The most important features for event detection and prediction can be assessed in the learning model.  A bed-integrated RF sensor can covertly and reliably detect and predict apneic events. 
+•	Improved user comfort. EOG and EEG measurements demand numerous electrodes around the eye region with stable electrical contact, which are inconvenient, uncomfortable, and prone to face motion interference. ROG can operate without direct skin contact. For example, ROG can be integrated into the eyeglasses frame or implemented as an insert or at an outer layer of a sleep mask or a masquerade. As no skin contact electrode is involved and ROG sensors just need to be at a constant place relative to eyes, both comfort and design freedom are enhanced.
 
+•	Unmediated sensing of directional EM. While the biopotential-based sensors such as EOG, EEG, and electromyography (EMG) measure neural stimulus for muscle activity, ROG directly measures the muscle motion by coupling RF energy to deep internal muscles, i.e., muscle condition is the direct output, instead of an estimate derived from the measured stimulus. EOG and ROG can also be used together to retrieve the closed loop of stimulation and actuation. 
 
-<img src='/images/sleep/pic5.png'> 
-<img src='/images/sleep/pic6.png'>  <br/>
-Detect and predict sleep disorders using ML model.
+•	Baseline for sleep REM detection. While camera-based methods are difficult to use for sleep REM, ROG has the flexibility to operate when eyes are open or closed without privacy concern. This work on conscious participants performing voluntary EM can formulate a validation baseline for future sleep REM monitoring.    
 
-**Significance**: Predictive warning of the sleep disorders in advance can intervene serious apnea, especially for infants, servicemen, and patients with chronic conditions. 
   
