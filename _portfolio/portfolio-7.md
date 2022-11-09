@@ -3,7 +3,7 @@ title: "Invisible furniture-integrated RF sensors for respiratory pattern monito
 excerpt: "Microwave sensors; respiration sensors; apnea detection. [Slides](http://zijingzhang1997.github.io/files/notch/notch_intro.pdf) <br/><img src='/images/notch/pic1.png'>"
 collection: portfolio
 ---
-
+[Slides](http://zijingzhang1997.github.io/files/notch/notch_intro.pdf)
 <img src='/images/notch/pic3.png'>  <br/>
 
 Non-invasive respiration sensors integrated into furniture can be invisible to the user and greatly enhance comfort and convenience to facilitate many applications. Current sensors often require user cooperation or fitting, which discourages frequent usage. We present a new respiration sensor integrated into a bed or a chair by modifying a radio-frequency (RF) coaxial cable structure with a designed notch. 
