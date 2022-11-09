@@ -4,6 +4,7 @@ excerpt: "sleep disorders, OSA, CSA [Slides](http://zijingzhang1997.github.io/fi
 collection: portfolio
 ---
 [Slides](http://zijingzhang1997.github.io/files/sleep/sleep_study_intro.pdf)
+
 <img src='/images/sleep/pic2.png'>  <br/>
 
 **Objective**: Respiratory disturbances during sleep are a prevalent health condition that affects a large adult population. The gold standard to evaluate sleep disorders including apnea is overnight polysomnography, which requires a trained technician for live monitoring and post-processing scoring. Currently, the disorder events can hardly be predicted using the respiratory waveforms preceding the events.  The objective of this work is to develop an autonomous system to detect and predict respiratory events reliably based on real-time covert sensing. 

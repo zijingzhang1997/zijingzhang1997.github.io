@@ -3,7 +3,7 @@ title: "Objective scoring of dyspnea with wearable RF sensor  "
 excerpt: "Dyspnea; respiration sensors; medical diagnosis.[Slides](http://zijingzhang1997.github.io/files/dyspnea/dyspnea_intro.pdf) <br/><img src='/images/dyspnea/GIF.gif'><br/><img src='/images/dyspnea/pic0.png'>"
 collection: portfolio
 ---
-[Slides](http://zijingzhang1997.github.io/files/dyspnea/dyspnea_intro.pdf
+[Slides](http://zijingzhang1997.github.io/files/dyspnea/dyspnea_intro.pdf)
 
 <img src='/images/dyspnea/pic2.png'>  <br/>
 <img src='/images/dyspnea/pic4.png'>  <br/>
