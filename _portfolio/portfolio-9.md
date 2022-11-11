@@ -5,9 +5,11 @@ collection: portfolio
 ---
 
 <img src='/images/box.gif'> <br/>
-
+[Slides](http://zijingzhang1997.github.io/files/RFIDbox.pdf)
 •	Employed ambient low-cost passive RFID tags for the recognition of 3D shape and geometry of hand gesture and feet. 
+
 •	Our system has demonstrated high accuracy in recognizing different hand gestures and participants precisely. 
+
 •	The equivalent spatial resolution is higher and the 3D geometry is more complex than conventional RFID-based fingerprinting . 
 
   
