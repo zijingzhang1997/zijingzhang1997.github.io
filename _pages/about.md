@@ -26,9 +26,13 @@ My present research interests focus on non-invasive sensing of physiological sig
 Research Experience
 ======
 •  Adandunt experience with: EMG, EOG for muscle monitroing, ECG, PPG for heart rate and blood oxygen; respiratory chest belt; PSG for sleep monitoring; accelerometers, gyroscope for motion detection.
-•  Understanding for human physioloy, including skeletal muscle, cardiopulmonary system… 
+
+•  Understanding for human physioloy, including skeletal muscle and cardiopulmonary system.
+
 •  Multiple Experiences with design of human studies to test the feasibility and performance of health sensing functions and features. 
+
 •  Apply signal processing tools to extract features from physiological time-series data and use machine learning or deep learning algorithm for data analysis. 
+
 
 
 
