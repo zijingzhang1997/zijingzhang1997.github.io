@@ -15,7 +15,7 @@ I am looking for a technical position in the field of Digital Healthcare or Huma
 
 Download my **CV** [here](http://zijingzhang1997.github.io/files/cv2.pdf).
 
-**Respiration Area: biosensing, smart wearable sensor, machine learning in healthcare and human computer interface **
+**Research Area: biosensing, smart wearable sensor, machine learning in healthcare and human computer interface**
 
 My present research interests focus on non-invasive sensing of physiological signals including respiration and muscle motion for biomedical applications and human computer interaction (HCI). 
 
